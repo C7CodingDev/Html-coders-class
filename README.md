@@ -1,5 +1,7 @@
 # Html-coders-class
-In this class you will learn html
-And if you find a error in the request please comment
+Hello and welcome! 
+In this class you will learn html!
 
-This is a remix of my # Cooldudesseven7 coding guide
+Thank you for joining!
+
+# This is a remix of my # Cooldudesseven7 coding guide
